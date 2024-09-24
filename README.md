@@ -4,7 +4,7 @@
 <!-- 2.- Informació bàsica: Inclou una llista desordenada amb les dades següents, i altres dades que cregues interessants incloure:
     Població: Escriu la ciutat o població on vius.
     Data de naixement: Indica la teua data de naixement. -->
-## Datos Personales
+## Dades Personals
 * Població : Agullent
 * Data de naixement: 12/03/2004
 * Correu Electrònic: [mvallesterol12@gmail.com](mailto:mvallesterol12@gmail.com)
