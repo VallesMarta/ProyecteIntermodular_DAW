@@ -6,7 +6,7 @@
     Data de naixement: Indica la teua data de naixement. -->
 ## Datos Personales
 * Població : Agullent
-* Data naixement: 12/03/2004
+* Data de naixement: 12/03/2004
 * Correu Electrònic: [mvallesterol12@gmail.com](mailto:mvallesterol12@gmail.com)
 
 <!-- 3.- Insereix una imatge (pot ser teua o qualsevol altra imatge que tries d'internet). -->
@@ -21,7 +21,7 @@ Logo de Google
 El meu últim estudi ha sigut el Cicle de Grau Superior d'**Administració de Sistemes Informàtics en Xarxa** a Xàtiva*. ***Actualment*** estic cursant el Cicle Superior de __Desenvolupament d'Aplicacions Web__ a _Ontinyent_ i, una vegada finalitzat, m'agradaria trobar treball en el sector de la informàtica, especialment en l'àmbit del desenvolupament web ja que ni ha mes demanda.
 
 <!-- 5. Fes una llista ordenada amb les profesions que t'agradaria dedicar-te, sent 1 la més prioritària -->
-## Professions que m'agradaria dedicarme
+## Professions a les que m'agradaria dedicar-me
 1. **Administració de sistemes informàtics**
 2. Desenvolupadora de Aplicacions Web
 3. Desenvolupadora BackEnd
@@ -47,14 +47,16 @@ print ("FI")
 
 |Àrea                       |Habilitats-Coneixements                               |
 |---------------------------|------------------------------------------------------|
-|Administració de Sistemes  |Configuració de servidors, xarxes, sistemes operatius |
-|Programació                | HTML, CSS, PHP Básic, SQL                            |
-|Bases de dades             | Disseny i gestió de bases de dades relacionals MySQL |
-|Eines de col·laboració     | Trello, GitLab                                       |
+|Administració de Sistemes |Configuració de servidors, xarxes, sistemes operatius  |
+|Programació               | HTML, CSS, PHP Básic, SQL                             |
+|Bases de dades            | Disseny i gestió de bases de dades relacionals MySQL  |
+|Eines de col·laboració    | Trello, GitLab                                        |
 ---
 <!-- 9.- Afig un enllaç a una pàgina web que t'agrade, algun perfil en xarxes socials, repositori de git...
  -->
- ## Pagina Web de YouTube
+## Pàgina Web de YouTube
 [BarriMón](https://www.youtube.com/@Barrimon2)
+
+[Exemple Activitat en GitHub](https://github.com/VallesMarta/ProyecteIntermodular_DAW)
  <!-- 10.- Separa les distintes seccions amb separadors -->
  ---
