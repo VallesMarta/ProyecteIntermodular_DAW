@@ -18,7 +18,7 @@ Logo de Google
 
 <!-- 4.- Inclou una descripció personal on combines negreta i cursiva per a ressaltar alguns detalls que cregues que són importants (en esta part, inclou quins estudis has cursat préviament i qué t'agradaria fer quan acabes en el cicle). -->
 ## Descripció
-El meu últim estudi ha sigut el Cicle de Grau Superior d'**Administració de Sistemes Informàtics en Xarxa** a *Xàtiva*. ***Actualment*** estic cursant el Cicle Superior de __Desenvolupament d'Aplicacions Web__ a _Ontinyent_ i, una vegada finalitzat, m'agradaria trobar treball en el sector de la informàtica, especialment en l'àmbit del desenvolupament web ja que ni ha mes demanda.
+El meu últim estudi ha sigut el Cicle de Grau Superior d'**Administració de Sistemes Informàtics en Xarxa** a Xàtiva*. ***Actualment*** estic cursant el Cicle Superior de __Desenvolupament d'Aplicacions Web__ a _Ontinyent_ i, una vegada finalitzat, m'agradaria trobar treball en el sector de la informàtica, especialment en l'àmbit del desenvolupament web ja que ni ha mes demanda.
 
 <!-- 5. Fes una llista ordenada amb les profesions que t'agradaria dedicar-te, sent 1 la més prioritària -->
 ## Professions que m'agradaria dedicarme
