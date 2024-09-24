@@ -10,7 +10,7 @@
 * Correu Electrònic: [mvallesterol12@gmail.com](mailto:mvallesterol12@gmail.com)
 
 <!-- 3.- Insereix una imatge (pot ser teua o qualsevol altra imatge que tries d'internet). -->
-## Imagens
+## Imatges
 Marta Vallés
 ![Marta Vallés Terol](marta.jpg)
 Logo de Google
