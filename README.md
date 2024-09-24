@@ -54,7 +54,7 @@ print ("FI")
 ---
 <!-- 9.- Afig un enllaç a una pàgina web que t'agrade, algun perfil en xarxes socials, repositori de git...
  -->
-## Pàgina Web de YouTube
+## Pàgines Web
 [BarriMón](https://www.youtube.com/@Barrimon2)
 
 [Exemple Activitat en GitHub](https://github.com/VallesMarta/ProyecteIntermodular_DAW)
